@@ -57,3 +57,7 @@ if __name__ == '__main__':
     graph.connect('B', 'C', weight=67)
 
     graph.display()
+
+    # graph.bfs('B')
+    # graph.print_path('E')
+    #
